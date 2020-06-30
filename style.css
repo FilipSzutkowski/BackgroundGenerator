@@ -1,0 +1,23 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3em;
+    outline: white;
+    outline-width: 2px;
+}
+
+input[type="color" i] {
+    height: 5rem;
+    width: 5rem;
+    padding: 3px;
+    margin: 50px;
+}
+
+input:hover {
+    cursor: pointer;
+}
